@@ -1,0 +1,10 @@
+
+
+entity User {
+  name String required,
+  lastName String required,
+  email String required,
+  phoneNumber String required
+}
+
+
